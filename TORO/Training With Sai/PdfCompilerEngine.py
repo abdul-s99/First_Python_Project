@@ -25,4 +25,3 @@ if __name__ == '__main__':
     output_pdf = "TestPDF.pdf"
     print(f"PDF created: {output_pdf}")
     print(f"Total pages created: {total_pages}")
-print()
